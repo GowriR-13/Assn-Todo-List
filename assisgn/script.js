@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function() {
-    // Retrieve tasks from localStorage
     let tasks = JSON.parse(localStorage.getItem("tasks")) || [];
     renderTasks(tasks);
 });
