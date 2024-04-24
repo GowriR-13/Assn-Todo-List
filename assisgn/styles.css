@@ -2,12 +2,6 @@ body {
     font-family: Arial, sans-serif;
     background-color: #b2b8d2;
 }
-/* .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-} */
 @media screen and (max-width: 767px) {
     body {
         font-size: 14px;
